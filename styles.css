@@ -224,6 +224,7 @@ button {
     background: var(--gradient-primary);
     color: white;
     border: none;
+     box-shadow: var(--shadow-sm);
     /* ERROR 5: El botón primario no tiene profundidad ni efecto de brillo
        PISTA: Falta la propiedad que agrega sombras al elemento */
 }
