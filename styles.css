@@ -453,6 +453,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+    animation: blob-animation 8s ease-in-out infinite;
     /* ERROR 9: El blob en el hero no tiene la animación de forma dinámica
        PISTA: Falta la propiedad animation que referencia a blob-animation */
     position: relative;
