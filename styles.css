@@ -166,7 +166,8 @@ button {
 }
 
 .section {
-    padding: var(--spacing-4xl) 0;
+    padding: var(--spacing-lg);
+    margin: 0 auto;
 }
 
 /* ========== TYPOGRAPHY ========== */
